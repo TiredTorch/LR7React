@@ -12,11 +12,11 @@ export default class Ball extends Component{
     render(){
         return(
             <button className="ball" onClick={this.Say.bind(this)}>
-            <div className="ball__text">
-                <div className="text" id="text">
+            <span className="ball__text">
+                <span className="text" id="text">
                     Your prediction
-                </div>
-            </div>
+                </span>
+            </span>
             </button>
         )
     }
