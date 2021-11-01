@@ -3,7 +3,7 @@ var arr = ["Yes","No", "Perhaps","Maybe","Sometimes"];
 
 export default class Ball extends Component{
     Say(){
-        if(document.getElementById('yours').value == ''){   
+        if(document.getElementById('yours').value === ''){   
             document.getElementById('text').innerHTML = "SAY YOUR QUESTION!";
         } else{
             document.getElementById('text').innerHTML = arr[
