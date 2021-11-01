@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/LR7React/static/css/main.657096c7.chunk.css",
-    "main.js": "/LR7React/static/js/main.7d0503bc.chunk.js",
-    "main.js.map": "/LR7React/static/js/main.7d0503bc.chunk.js.map",
+    "main.css": "/LR7React/static/css/main.0b5fb889.chunk.css",
+    "main.js": "/LR7React/static/js/main.a5434183.chunk.js",
+    "main.js.map": "/LR7React/static/js/main.a5434183.chunk.js.map",
     "runtime-main.js": "/LR7React/static/js/runtime-main.e52e0a32.js",
     "runtime-main.js.map": "/LR7React/static/js/runtime-main.e52e0a32.js.map",
     "static/js/2.e35fd12b.chunk.js": "/LR7React/static/js/2.e35fd12b.chunk.js",
     "static/js/2.e35fd12b.chunk.js.map": "/LR7React/static/js/2.e35fd12b.chunk.js.map",
     "index.html": "/LR7React/index.html",
-    "static/css/main.657096c7.chunk.css.map": "/LR7React/static/css/main.657096c7.chunk.css.map",
-    "static/js/2.e35fd12b.chunk.js.LICENSE.txt": "/LR7React/static/js/2.e35fd12b.chunk.js.LICENSE.txt"
+    "static/css/main.0b5fb889.chunk.css.map": "/LR7React/static/css/main.0b5fb889.chunk.css.map",
+    "static/js/2.e35fd12b.chunk.js.LICENSE.txt": "/LR7React/static/js/2.e35fd12b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/LR7React/static/media/220px-Magic_eight_ball.aec62932.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e52e0a32.js",
     "static/js/2.e35fd12b.chunk.js",
-    "static/css/main.657096c7.chunk.css",
-    "static/js/main.7d0503bc.chunk.js"
+    "static/css/main.0b5fb889.chunk.css",
+    "static/js/main.a5434183.chunk.js"
   ]
 }
